@@ -1,0 +1,31 @@
+#jatek_fo {
+    display: inline-block;
+    max-width: 560px;
+    color: brown;
+    padding: 0 0 0 0;
+}
+#jatek_kontroll {
+    display: inline-block;
+    max-width: 560px;
+    color: darkgoldenrod;
+    padding: 0 0 0 0;
+}
+body{
+    font-family: fangsong;
+    background-color: black;
+}
+p {
+    color: rgb(0,0,255);
+}
+h1 {
+    color: rgb(0,0,255);
+}
+label {
+    color: rgb(0,0,255);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
