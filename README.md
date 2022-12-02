@@ -1,6 +1,6 @@
-###Webprogramozás - számonkérés
-##Gottfried István
-##JET4
+### Webprogramozás - számonkérés
+## Gottfried István
+## JET4JR
 Ezt a megoldást a fent írt hallgató küldte be és készítette a Webprogramozás kurzus számonkéréséhez.
 Kijelentem, hogy ez a megoldás a saját munkám. Nem másoltam vagy használtam harmadik féltől
 származó megoldásokat. Nem továbbítottam megoldást hallgatótársaimnak, és nem is tettem közzé.
